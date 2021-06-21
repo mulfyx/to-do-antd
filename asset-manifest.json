@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mulfyx/to-do-antd/static/css/main.0e433876.chunk.css",
-    "main.js": "/mulfyx/to-do-antd/static/js/main.0eaaec04.chunk.js",
-    "runtime-main.js": "/mulfyx/to-do-antd/static/js/runtime-main.e1c7b6ec.js",
-    "static/css/2.16c0d3fb.chunk.css": "/mulfyx/to-do-antd/static/css/2.16c0d3fb.chunk.css",
-    "static/js/2.7e321d51.chunk.js": "/mulfyx/to-do-antd/static/js/2.7e321d51.chunk.js",
-    "index.html": "/mulfyx/to-do-antd/index.html",
-    "static/js/2.7e321d51.chunk.js.LICENSE.txt": "/mulfyx/to-do-antd/static/js/2.7e321d51.chunk.js.LICENSE.txt"
+    "main.css": "/to-do-antd/static/css/main.0e433876.chunk.css",
+    "main.js": "/to-do-antd/static/js/main.0eaaec04.chunk.js",
+    "runtime-main.js": "/to-do-antd/static/js/runtime-main.ef272e52.js",
+    "static/css/2.16c0d3fb.chunk.css": "/to-do-antd/static/css/2.16c0d3fb.chunk.css",
+    "static/js/2.11c811b3.chunk.js": "/to-do-antd/static/js/2.11c811b3.chunk.js",
+    "index.html": "/to-do-antd/index.html",
+    "static/js/2.11c811b3.chunk.js.LICENSE.txt": "/to-do-antd/static/js/2.11c811b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1c7b6ec.js",
+    "static/js/runtime-main.ef272e52.js",
     "static/css/2.16c0d3fb.chunk.css",
-    "static/js/2.7e321d51.chunk.js",
+    "static/js/2.11c811b3.chunk.js",
     "static/css/main.0e433876.chunk.css",
     "static/js/main.0eaaec04.chunk.js"
   ]
