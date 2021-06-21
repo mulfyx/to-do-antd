@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/to-do-antd/static/css/main.0e433876.chunk.css",
-    "main.js": "/to-do-antd/static/js/main.0eaaec04.chunk.js",
-    "runtime-main.js": "/to-do-antd/static/js/runtime-main.ef272e52.js",
-    "static/css/2.16c0d3fb.chunk.css": "/to-do-antd/static/css/2.16c0d3fb.chunk.css",
-    "static/js/2.11c811b3.chunk.js": "/to-do-antd/static/js/2.11c811b3.chunk.js",
-    "index.html": "/to-do-antd/index.html",
-    "static/js/2.11c811b3.chunk.js.LICENSE.txt": "/to-do-antd/static/js/2.11c811b3.chunk.js.LICENSE.txt"
+    "main.css": "https://mulfyx.github.io/to-do-antd/static/css/main.0e433876.chunk.css",
+    "main.js": "https://mulfyx.github.io/to-do-antd/static/js/main.0eaaec04.chunk.js",
+    "runtime-main.js": "https://mulfyx.github.io/to-do-antd/static/js/runtime-main.0938ae3b.js",
+    "static/css/2.16c0d3fb.chunk.css": "https://mulfyx.github.io/to-do-antd/static/css/2.16c0d3fb.chunk.css",
+    "static/js/2.39e3c348.chunk.js": "https://mulfyx.github.io/to-do-antd/static/js/2.39e3c348.chunk.js",
+    "index.html": "https://mulfyx.github.io/to-do-antd/index.html",
+    "static/js/2.39e3c348.chunk.js.LICENSE.txt": "https://mulfyx.github.io/to-do-antd/static/js/2.39e3c348.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef272e52.js",
+    "static/js/runtime-main.0938ae3b.js",
     "static/css/2.16c0d3fb.chunk.css",
-    "static/js/2.11c811b3.chunk.js",
+    "static/js/2.39e3c348.chunk.js",
     "static/css/main.0e433876.chunk.css",
     "static/js/main.0eaaec04.chunk.js"
   ]
