@@ -8,8 +8,8 @@
     "url": "git+https://github.com/mulfyx/to-do-antd.git"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
+    "start": "NODE_OPTIONS=--openssl-legacy-provider craco start",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider craco build",
     "predeploy": "PUBLIC_URL=https://mulfyx.github.io/to-do-antd craco build",
     "deploy": "gh-pages -d build"
   },
